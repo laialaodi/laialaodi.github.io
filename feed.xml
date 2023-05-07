@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-04T21:48:02+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">laialaodi的博客</title><subtitle>laialaodi的博客</subtitle><entry><title type="html">哈利波特英语周剧本</title><link href="http://localhost:4000/post/2023/04/28/harry-potter-english-script.html" rel="alternate" type="text/html" title="哈利波特英语周剧本" /><published>2023-04-28T18:18:04+08:00</published><updated>2023-04-28T18:18:04+08:00</updated><id>http://localhost:4000/post/2023/04/28/harry-potter-english-script</id><content type="html" xml:base="http://localhost:4000/post/2023/04/28/harry-potter-english-script.html"><![CDATA[<h1 id="actor">Actor</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-07T19:58:34+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">laialaodi的博客</title><subtitle>laialaodi的博客</subtitle><entry><title type="html">哈利波特英语周剧本</title><link href="http://localhost:4000/post/2023/04/28/harry-potter-english-script.html" rel="alternate" type="text/html" title="哈利波特英语周剧本" /><published>2023-04-28T18:18:04+08:00</published><updated>2023-04-28T18:18:04+08:00</updated><id>http://localhost:4000/post/2023/04/28/harry-potter-english-script</id><content type="html" xml:base="http://localhost:4000/post/2023/04/28/harry-potter-english-script.html"><![CDATA[<h1 id="actor">Actor</h1>
 <ul>
   <li>Harry Potter</li>
-  <li>Hermione Granger</li>
   <li>Ron Weasley</li>
+  <li>Hermione Granger</li>
+  <li>Teachers and Students</li>
   <li>Neville Longbottom</li>
   <li>Voldemort</li>
+  <li>Bellatrix Lestrange</li>
+  <li>Albus Dumbledore</li>
 </ul>
 
 <h1 id="play-start">Play start</h1>
@@ -40,15 +43,15 @@
 
 <p><strong>Longbottom</strong>: Kill him!</p>
 
-<p><strong>Voldemort</strong>: Alright, if you are still refuse to realize your mistake. Accio!</p>
+<p><strong>Voldemort</strong>: Alright, if you are still refuse to realize your mistake. Petrificus Totalus!</p>
 
-<p>Sorting Hat flew over Longbottom’s head.</p>
+<p>Longbottom can’t move.</p>
 
-<p><strong>Voldemort</strong>: Incendio! Now Longbottom is showing the result of defying me!</p>
+<p><strong>Harry</strong>: Protego.</p>
 
-<p><strong>Harry</strong>(quiet): Protego.</p>
+<p><strong>Voldemort</strong>: Avada Kedavra!</p>
 
-<p>Longbottom stopped burning and felt amazed.</p>
+<p>Longbottom can move again and feel amazed.</p>
 
 <p><strong>Voldemort</strong>(frightened): What? How? Who?!!</p>
 
@@ -108,4 +111,14 @@
 
 <p><strong>Everyone</strong>: Hooray! Hooray! Harry Potter is the hero!</p>
 
-<p>(THE END)</p>]]></content><author><name></name></author><category term="post" /><summary type="html"><![CDATA[Actor Harry Potter Hermione Granger Ron Weasley Neville Longbottom Voldemort]]></summary></entry></feed>
+<p>Harry take The Resurrection Stone from Voldemort and turn to Hermione and Ron.</p>
+
+<p><strong>Harry</strong>: Are you thinking what I’m thinking?</p>
+
+<p><strong>Hermione and Ron</strong>: Yes.</p>
+
+<p>Harry, Ron and Hermione go to Dumbledore’s body. Harry put The Resurrection Stone on Dumbledore’s body. Dumbledore reborn. Dumbledore smile to them.</p>
+
+<p><strong>Dumbledore</strong>: At last, you come.</p>
+
+<p>(THE END)</p>]]></content><author><name></name></author><category term="post" /><summary type="html"><![CDATA[Actor Harry Potter Ron Weasley Hermione Granger Teachers and Students Neville Longbottom Voldemort Bellatrix Lestrange Albus Dumbledore]]></summary></entry></feed>
